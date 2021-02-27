@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Front End
+require_once __DIR__ . '/frontend/home.php';
