@@ -1,15 +1,4 @@
-/*
-@Author: ThemeMascot
-@URL: http://ThemeMascot.com
 
-*/
-
-/* Your Preloader css codes start here: */
-
-/*
- * 2.0 -> Preloader
- * -----------------------------------------------
-*/
 #preloader {
     position: fixed;
     top: 0;
@@ -122,20 +111,6 @@
 
 /*===== Preloader Two =======*/
 
-/*=======Markup=====
-
-<div class="preloader-floating-circles">
-	<div class="f_circleG" id="frotateG_01"></div>
-	<div class="f_circleG" id="frotateG_02"></div>
-	<div class="f_circleG" id="frotateG_03"></div>
-	<div class="f_circleG" id="frotateG_04"></div>
-	<div class="f_circleG" id="frotateG_05"></div>
-	<div class="f_circleG" id="frotateG_06"></div>
-	<div class="f_circleG" id="frotateG_07"></div>
-	<div class="f_circleG" id="frotateG_08"></div>
-</div>
-
- */
 .preloader-floating-circles {
 	position:relative;
 	width:80px;
@@ -298,20 +273,6 @@
 
 /*===== Preloader Three =======*/
 
-/*=======Markup=====
-
-<div id="cssload-pgloading">
-  <div class="cssload-loadingwrap">
-    <ul class="cssload-bokeh">
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
-  </div>
-</div>
-
- */
 #cssload-pgloading {}
 
 #cssload-pgloading:after {
@@ -553,13 +514,7 @@
 		91.0% { opacity: 0.87; }
 }
 
-/*===== Preloader Four =======*/
 
-/*=======Markup=====
-
-<div class="preloader-double-torus"></div>
-
- */
 .preloader-double-torus {
 	width: 49px;
 	height: 49px;
@@ -594,13 +549,7 @@
 	100%{ -moz-transform: rotate(360deg); transform: rotate(360deg); }
 }
 
-/*===== Preloader Five =======*/
 
-/*=======Markup=====
-
-<div class="preloader-tube-tunnel"></div>
-
- */
 .preloader-tube-tunnel {
 	width: 49px;
 	height: 49px;

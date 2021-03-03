@@ -1,13 +1,3 @@
-/*!
- * jQuery ClassyCountdown
- * www.class.pm
- *
- * Written by Marius Stanciu - Sergiu <marius@class.pm>
- * Licensed under the MIT license www.class.pm/LICENSE-MIT
- * Version 1.0.0
- *
- */
-
 (function($) {
     $.fn.ClassyCountdown = function(options, callback) {
         var element = $(this);

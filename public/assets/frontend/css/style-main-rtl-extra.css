@@ -1,28 +1,10 @@
-/* --------------------------------------
-@Author: ThemeMascot
-@URL: http://themeforest.net/user/ThemeMascot
------------------------------------------ */
-/*
- * rtl.less
- * -----------------------------------------------
-*/
+
 html,
 body {
   direction: rtl;
 }
 html[dir="rtl"] {
-  /*
-	.boxed-layout {
-		.header {
-			margin-left: 0;
-			margin-right: 0;
-		}
-	}
-	*/
-  /* timeline */
-  /* flexslider */
-  /* vertical nav */
-  /* bx slider control */
+
 }
 html[dir="rtl"] .icon-box.left a {
   margin-left: 0px;

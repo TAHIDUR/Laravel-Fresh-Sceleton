@@ -1,81 +1,5 @@
 @charset "utf-8";
-/*------------------------------------------------------------------
-[Master Stylesheet]
 
-Project:        mvi-horse
-Version:        1.0
-Last change:    03.29.2016
-Primary use:    Royalspa Health & Beauty Business Template
-Author:         ThemeMascot
-URL:            http://themeforest.net/user/ThemeMascot
--------------------------------------------------------------------*/
-/*
-This file contains the common styles of this theme.
-*/
-/*------------------------------------------------------------------
-[Table of contents]
-
-		* Typography.less
-		* Common.less
-		* Extra.less
-		* Header.less
-		* Nav.less
-		* Inner-Header-Title.less
-		* Vertical-Nav.less
-		* Boxed-layout.less
-		* Form.less
-		* Side-Push-Panel.less
-		* Box-Hover-Effect.less
-		* gallery-isotope.less
-		* Slider.less
-		* Home.less
-		* About.less
-		* Contact.less
-		* Event.less
-		* Practice-Area.less
-		* Services.less
-		* Job.less
-		* Shop.less
-		* Blog.less
-		* Shortcode.less 
-			* Alerts.less
-			* Buttons.less
-			* Blockquote.less
-			* Clients.less
-			* Countdown.less
-			* Countdown-Timer.less
-			* Dividers.less
-			* Facebook-Disqus-Comments.less
-			* Faqs.less
-			* Flexslider.less
-			* Flip-Box.less
-			* Font-Icons-Style.less
-			* Funfacts.less
-			* Home-boxes.less
-			* Icon-Boxes.less
-			* Infinitescroll.less
-			* Instagram.less
-			* Light-Box.less
-			* Map.less
-			* Pegination.less
-			* Piechart.less
-			* Pricing.less
-			* Process-Steps.less
-			* Progress-Bar.less
-			* Promo.less
-			* Section-Title.less
-			* Separators.less
-			* styled-icons.less
-			* Tabs.less
-			* Teams.less
-			* Testimonials.less
-			* Toggles-Accordions.less
-			* Vertical-Timeline.less
-			* Working-Process.less
-			* Widgets.less
-	* Footer
-* ===============================================
-*/
 @import "font-awesome.min.css";
 @import "font-awesome-animation.min.css";
 @import "pe-icon-7-stroke.css";
@@ -84,7 +8,6 @@ This file contains the common styles of this theme.
 @import "flaticon-set-charity.css";
 @import "utility-classes.css";
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
-/* @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700); */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,700italic,400italic);

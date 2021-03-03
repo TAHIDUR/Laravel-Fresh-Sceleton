@@ -1,13 +1,3 @@
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- ARES SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 .ares.tparrows {
   cursor:pointer;
   background:#fff;
@@ -980,16 +970,6 @@ website:    http://www.themepunch.com
 
 }
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- HADES SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .hades.tparrows {
 	cursor:pointer;
@@ -1234,18 +1214,6 @@ background:#000;
 	text-align:center;
 }
 
-              
-
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- HEBE SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .hebe.tparrows {
   cursor:pointer;
@@ -1431,17 +1399,6 @@ border-radius:6px;
 	font-family:"Roboto Slab";
 }
 
-
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- HEPHAISTOS SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .hephaistos.tparrows {
 	cursor:pointer;
@@ -1513,16 +1470,6 @@ website:    http://www.themepunch.com
 }
 
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- HERMES SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .hermes.tparrows {
 	cursor:pointer;
@@ -1736,16 +1683,6 @@ website:    http://www.themepunch.com
   .hermes .tp-tab-content {padding:10px 10px 10px 20px;}
 }
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- HESPERIDEN SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .hesperiden.tparrows {
 	cursor:pointer;
@@ -1923,16 +1860,6 @@ website:    http://www.themepunch.com
 
 }
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- METIS SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .metis.tparrows {
   background:#fff;
@@ -2129,16 +2056,6 @@ website:    http://www.themepunch.com
         }
     }
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- PERSEPHONE SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .persephone.tparrows {
 	cursor:pointer;
@@ -2202,17 +2119,6 @@ website:    http://www.themepunch.com
 .persephone .tp-bullet-title {
 }
 
-
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- URANUS SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .uranus.tparrows {
   width:50px;
@@ -2275,16 +2181,6 @@ website:    http://www.themepunch.com
  background-color:#fff;
 }
 
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- ZEUS SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
 /* ARROWS */
 .zeus.tparrows {
   cursor:pointer;
@@ -2554,20 +2450,6 @@ padding: 9px 10px; }
  color: #000;
   background:rgba(255,255,255,1); 
 }
-
-
-
-/*-----------------------------------------------------------------------------
-
-- Revolution Slider 5.0 Navigatin Skin Style  -
-
- ZEUS SKIN
-
-author:  ThemePunch
-email:      info@themepunch.com
-website:    http://www.themepunch.com
------------------------------------------------------------------------------*/
-
 
 .post-tabs .tp-thumb {
 opacity:1
